@@ -33,7 +33,7 @@ A Dockerized Django REST API for managing personal tasks.
 Clone repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/todo-api.git
+git clone https://github.com/ReganLema/todo-api.git
 ```
 
 Enter project
